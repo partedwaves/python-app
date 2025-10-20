@@ -5,7 +5,7 @@ metadata:
   description: A Python application that displays time.
   annotations:
     github.com/project-slug: madjava/python-app
-    backstage.io/techdocs-ref: dir:/docs/index.md
+    backstage.io/techdocs-ref: dir:.
 
 spec:
   type: service
