@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: partedwaves/python-app
   pullPolicy: IfNotPresent
-  tag: v1
+  tag: 7b293f
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
